@@ -3,7 +3,7 @@
 		{
 			"ref": "c",
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/mesblocs221235@3e1feee6683729143ac4bf54d5dc56d360a7b24b/images/header1.png",
-			"visibility": true
+			"visibility": false
 		},
 		{
 			"ref": "b",
