@@ -7,12 +7,7 @@
 		},
 		{
 			"ref": "b",
-			"category": "contact",
-			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/mesblocs221235@1bd83167bfe861286933eb5888aaf9d6114e8c64/images/pricing1.png",
-			"visibility": false
-		},
-		{
 			"visibility": false
 		}
 	]
