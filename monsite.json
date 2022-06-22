@@ -1,16 +1,16 @@
 {
 	"site": [
 		{
+			"ref": "c",
+			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/mesblocs221235@3e1feee6683729143ac4bf54d5dc56d360a7b24b/images/header1.png",
+			"visibility": false
+		},
+		{
 			"ref": "b",
 			"category": "contact",
 			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/mesblocs221235@1bd83167bfe861286933eb5888aaf9d6114e8c64/images/pricing1.png",
 			"visibility": true
-		},
-		{
-			"ref": "c",
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/mesblocs221235@3e1feee6683729143ac4bf54d5dc56d360a7b24b/images/header1.png",
-			"visibility": false
 		},
 		{
 			"ref": "b",
